@@ -1,6 +1,7 @@
 class Person
   def initialize(is_named)
     @name = is_named
+  end
   def name=(name)
     @name = name
   end
